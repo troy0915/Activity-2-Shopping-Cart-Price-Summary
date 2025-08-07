@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Activity 2Shopping Cart Price Summary\bin\Debug\Activity 2Shopping Cart Price Summary.exe.config
+C:\Users\HP\source\repos\Activity 2Shopping Cart Price Summary\bin\Debug\Activity 2Shopping Cart Price Summary.exe
+C:\Users\HP\source\repos\Activity 2Shopping Cart Price Summary\bin\Debug\Activity 2Shopping Cart Price Summary.pdb
+C:\Users\HP\source\repos\Activity 2Shopping Cart Price Summary\obj\Debug\Activity 2Shopping Cart Price Summary.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Activity 2Shopping Cart Price Summary\obj\Debug\Activity 2Shopping Cart Price Summary.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Activity 2Shopping Cart Price Summary\obj\Debug\Activity 2Shopping Cart Price Summary.exe
+C:\Users\HP\source\repos\Activity 2Shopping Cart Price Summary\obj\Debug\Activity 2Shopping Cart Price Summary.pdb
